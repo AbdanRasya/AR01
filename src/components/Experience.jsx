@@ -22,6 +22,13 @@ const experiences = [
     period: '2024, 2025',
     description: 'Membuat Aplikasi berbasis web lengkap dengan database untuk keperluan UKL menggunakan HTML, CSS, JavaScript, dan PHP.',
     icon: <Award size={24} />
+  },
+  {
+    title: 'Freelance Web Developer',
+    organization: 'Freelance',
+    period: '2023 - now',
+    description: 'Mengembangkan dan merawat website untuk berbagai klien menggunakan HTML, CSS, JavaScript, dan PHP.',
+    icon: <Award size={24} />
   }
 ];
 
