@@ -32,8 +32,8 @@ export const projects = [
   {
     id: 2,
     title: 'Task Management App',
-    desc: 'A collaborative task management tool with real-time updates, drag-and-drop kanban boards, and team workspaces.',
-    fullDesc: 'Designed to boost productivity, this task management app offers real-time collaboration using WebSockets. Users can create workspaces, invite team members, and manage tasks using an intuitive drag-and-drop Kanban board interface. It also includes features like task deadlines, file attachments, and activity logs.',
+    desc: 'Alat manajemen tugas kolaboratif dengan pembaruan waktu nyata, papan kanban seret dan lepas, serta ruang kerja tim.',
+    fullDesc: 'Alat manajemen tugas kolaboratif dengan pembaruan waktu nyata, papan kanban seret dan lepas, serta ruang kerja tim.',
     image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'Firebase', 'Tailwind', 'Redux'],
     demoUrl: '#',
@@ -42,8 +42,8 @@ export const projects = [
   {
     id: 3,
     title: 'AI Image Generator',
-    desc: 'An AI-powered application that generates stunning visuals from text descriptions using state-of-the-art models.',
-    fullDesc: 'An innovative application that leverages the OpenAI API to generate high-quality images based on user text prompts. The platform features a gallery of community-generated images, the ability to download creations, and a responsive design that works flawlessly on mobile devices.',
+    desc: 'Aplikasi berbasis AI yang menghasilkan visual menakjubkan dari deskripsi teks menggunakan model-model canggih.',
+    fullDesc: 'Aplikasi inovatif yang memanfaatkan API OpenAI untuk menghasilkan gambar berkualitas tinggi berdasarkan prompt teks pengguna. Platform ini menawarkan galeri gambar yang dihasilkan komunitas, kemampuan untuk mengunduh karya, dan desain responsif yang bekerja sempurna pada perangkat mobile.',
     image: 'https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     tech: ['React', 'OpenAI API', 'Express', 'CSS'],
     demoUrl: '#',
