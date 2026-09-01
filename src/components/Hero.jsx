@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="hero-content">
           <span className="greeting">Hi, I'm Abdan Rasya</span>
           <h1 className="hero-title">
-            <span className="gradient-text">Web Developer</span> & UI/UX Enthusiast
+            <span className="gradient-text">Web Developer</span> & UI/UX Designer
           </h1>
           <p className="hero-subtitle">
             Saya membangun website modern, responsif, dan mudah digunakan.

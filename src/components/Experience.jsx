@@ -3,17 +3,24 @@ import { Briefcase, Award, Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    title: 'Praktek Kerja Lapangan (PKL)',
-    organization: 'PT Telekomunikasi Indonesia',
+    title: 'Pra Praktek Kerja Lapangan (PPKL)',
+    organization: 'CV OPTIK AALIYAH Indonesia',
     period: 'Jul 2025 - Des 2025',
-    description: 'Membantu pengembangan sistem internal perusahaan menggunakan Laravel dan MySQL. Berkolaborasi dengan tim untuk memperbaiki bug dan menambahkan fitur pelaporan.',
+    description: 'Membantu pengembangan sistem internal perusahaan menggunakan Next JS dan SQL. Berkolaborasi dengan tim untuk memperbaiki bug dan menambahkan fitur AI pada aplikasi internal.',
     icon: <Briefcase size={24} />
   },
   {
-    title: 'Ketua Divisi IT',
-    organization: 'OSIS SMK Telkom Sidoarjo',
+    title: 'Programmer & Web Developer',
+    organization: 'DTP SMK Telkom Sidoarjo',
     period: '2024 - 2025',
-    description: 'Bertanggung jawab atas pengelolaan website sekolah dan memimpin tim dokumentasi untuk setiap acara sekolah.',
+    description: 'Mengembangkan dan merawat website sekolah menggunakan HTML, CSS, JavaScript, dan PHP.',
+    icon: <Award size={24} />
+  },
+  {
+    title: 'UKL',
+    organization: 'SMK Telkom Sidoarjo',
+    period: '2024, 2025',
+    description: 'Membuat Aplikasi berbasis web lengkap dengan database untuk keperluan UKL menggunakan HTML, CSS, JavaScript, dan PHP.',
     icon: <Award size={24} />
   }
 ];

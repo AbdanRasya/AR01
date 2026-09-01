@@ -12,7 +12,7 @@ const Contact = () => {
             Tertarik untuk berkolaborasi atau punya project menarik? 
             Jangan ragu untuk menghubungi saya melalui kontak di bawah ini.
           </p>
-          <a href="mailto:abdanrasya@example.com" className="btn btn-primary" style={{ padding: '1rem 2rem', fontSize: '1.1rem' }}>
+          <a href="mailto:rasyaira25@gmail.com" className="btn btn-primary" style={{ padding: '1rem 2rem', fontSize: '1.1rem' }}>
             <Mail size={20} /> Email Saya
           </a>
           

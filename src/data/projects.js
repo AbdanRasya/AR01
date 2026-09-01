@@ -30,16 +30,6 @@ export const projects = [
     githubUrl: '#'
   },
   {
-    id: 1,
-    title: 'E-Commerce Platform',
-    desc: 'A full-featured e-commerce platform with a modern UI, shopping cart, and secure payment gateway integration.',
-    fullDesc: 'This e-commerce platform was built from the ground up to provide a seamless shopping experience. It features user authentication, a dynamic shopping cart, order history, and integration with Stripe for secure payments. The admin dashboard allows for easy product management and sales tracking.',
-    image: 'https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    demoUrl: '#',
-    githubUrl: '#'
-  },
-  {
     id: 2,
     title: 'Task Management App',
     desc: 'A collaborative task management tool with real-time updates, drag-and-drop kanban boards, and team workspaces.',

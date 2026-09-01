@@ -9,22 +9,22 @@ const certificates = [
     description: 'Sertifikasi keahlian dasar HTML, CSS, dan Flexbox.',
   },
   {
-    title: 'Belajar Membuat Front-End Web untuk Pemula',
-    issuer: 'Dicoding Indonesia',
+    title: 'Belajar dasar dasar AI',
+    issuer: 'Elevate Indonesia',
     year: '2025',
-    description: 'Sertifikasi kompetensi pembuatan web menggunakan DOM Manipulation dan Web Storage.',
+    description: 'Sertifikasi kompetensi pembuatan aplikasi AI sederhana.',
   },
   {
-    title: 'Sertifikasi Kompetensi Keahlian RPL',
-    issuer: 'BNSP',
-    year: '2026',
-    description: 'Sertifikasi resmi BNSP untuk bidang Rekayasa Perangkat Lunak.',
-  },
-  {
-    title: 'Finalis Lomba Web Design Nasional',
-    issuer: 'Universitas Brawijaya',
+    title: 'Sefest - Lomba Desain Web',
+    issuer: 'Telkom University Surabaya',
     year: '2025',
     description: 'Masuk dalam jajaran 10 besar finalis lomba desain web se-Indonesia.',
+  },
+  {
+    title: 'UI UX Design Competition',
+    issuer: 'ITENAS',
+    year: '2025',
+    description: 'Peserta lomba desain UI/UX se-Indonesia.',
   }
 ];
 
