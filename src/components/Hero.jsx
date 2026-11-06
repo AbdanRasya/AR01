@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="hero-content">
           <span className="greeting">Hi, I'm Abdan Rasya</span>
           <h1 className="hero-title">
-            <span className="gradient-text">Web Developer</span>
+            <span className="gradient-text">Web Developer</span> & Software developer
           </h1>
           <p className="hero-subtitle">
             Saya membangun website modern, responsif, dan mudah digunakan.
@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
             <div className="stat-item">
               <h3 style={{ fontSize: '2rem', color: 'var(--accent-color)', marginBottom: '0.2rem' }}>3+</h3>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: '500' }}>Sertifikasi</p>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: '500' }}>Sertifikat IT</p>
             </div>
           </div>
         </div>
