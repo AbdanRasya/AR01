@@ -18,13 +18,25 @@ const certificates = [
     title: 'Sefest - Lomba Desain Web',
     issuer: 'Telkom University Surabaya',
     year: '2025',
-    description: 'Masuk dalam jajaran 10 besar finalis lomba desain web se-Indonesia.',
+    description: 'Masuk dalam jajaran 5 besar finalis lomba desain web se-Indonesia.',
   },
   {
     title: 'UI UX Design Competition',
     issuer: 'ITENAS',
     year: '2025',
     description: 'Peserta lomba desain UI/UX se-Indonesia.',
+  },
+  {
+    title: 'Itechnocup Competition',
+    issuer: 'PNJ',
+    year: '2026',
+    description: 'Peserta lomba Web Dev se-Indonesia.',
+  },
+  {
+    title: 'GTNIC Competition',
+    issuer: 'gardatech',
+    year: '2026',
+    description: 'On going sebagai peserta Ai agent development se-Indonesia.',
   }
 ];
 
