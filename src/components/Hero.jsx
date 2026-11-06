@@ -11,7 +11,7 @@ const Hero = () => {
             <span className="gradient-text">Web Developer</span> & Software developer
           </h1>
           <p className="hero-subtitle">
-            Saya membangun website modern, responsif, dan mudah digunakan.
+            Saya membangun website dan aplikasi modern, responsif, dan mudah digunakan.
           </p>
           <div className="hero-cta">
             <a href="/#projects" className="btn btn-primary">
@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
             <div className="stat-item">
               <h3 style={{ fontSize: '2rem', color: 'var(--accent-color)', marginBottom: '0.2rem' }}>3+</h3>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: '500' }}>Sertifikat IT</p>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', fontWeight: '500' }}>Sertifikasi</p>
             </div>
           </div>
         </div>
